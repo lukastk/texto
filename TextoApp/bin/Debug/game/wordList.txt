@@ -1,0 +1,17 @@
+(Pronouns)
+he;
+she;
+him;
+her;
+it;
+(Modifiers)
+through;
+(Prepositions)
+to;
+on;
+at;
+in;
+through;
+(Adverbs)
+fast;
+quickly;

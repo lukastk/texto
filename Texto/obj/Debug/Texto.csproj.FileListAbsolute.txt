@@ -1,0 +1,14 @@
+C:\DEV-MAIN\Texto\Texto\Texto\bin\Debug\Texto.dll
+C:\DEV-MAIN\Texto\Texto\Texto\bin\Debug\Texto.pdb
+C:\DEV-MAIN\Texto\Texto\Texto\bin\Debug\lua51.dll
+C:\DEV-MAIN\Texto\Texto\Texto\bin\Debug\LuaInterface.dll
+C:\DEV-MAIN\Texto\Texto\Texto\obj\Debug\ResolveAssemblyReference.cache
+C:\DEV-MAIN\Texto\Texto\Texto\obj\Debug\Texto.dll
+C:\DEV-MAIN\Texto\Texto\Texto\obj\Debug\Texto.pdb
+C:\Users\Lukas\Dropbox\Programming Projects\Texto\Texto\Texto\bin\Debug\Texto.dll
+C:\Users\Lukas\Dropbox\Programming Projects\Texto\Texto\Texto\bin\Debug\Texto.pdb
+C:\Users\Lukas\Dropbox\Programming Projects\Texto\Texto\Texto\bin\Debug\lua51.dll
+C:\Users\Lukas\Dropbox\Programming Projects\Texto\Texto\Texto\bin\Debug\LuaInterface.dll
+C:\Users\Lukas\Dropbox\Programming Projects\Texto\Texto\Texto\obj\Debug\Texto.csprojResolveAssemblyReference.cache
+C:\Users\Lukas\Dropbox\Programming Projects\Texto\Texto\Texto\obj\Debug\Texto.dll
+C:\Users\Lukas\Dropbox\Programming Projects\Texto\Texto\Texto\obj\Debug\Texto.pdb

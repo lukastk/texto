@@ -1,0 +1,12 @@
+roomBase.literalActions.Inventory = {"inventory", "look at inventory", "i"};
+function roomBase:actionLitInventory(entry)
+	showMessage("Here's what you have:");
+
+	for i, item in pairs(player.items) do
+		showMessage(" - " .. item:getInventoryName());
+	end
+
+	if table.getSize(player.items) == 0 then
+		showMessage("Absolutely nothing...");
+	end
+end
